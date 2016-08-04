@@ -4,5 +4,5 @@
 ## Subjects list
 
 ### Langauges
-- [English](langauges\English).
+- [English](langauges/English).
   

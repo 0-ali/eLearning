@@ -12,6 +12,10 @@
 ##Description - الوصف
  > يساعد على فهم قواعد اللغة الانجليزية حيث يحتوي على اغلب القواعد الانجليزية مشروحة بأسلوب مختصر وواضح وسهل الفهم .
 
+##Lessons - الدروس
+ 1. [Parts of speech - أقسام الكلام](https://github.com/xc0d3rz/eLearning/edit/master/subjects/langauges/English/#1_Parts of speech.md)
+
+
 ##Copyrights - حقوق النشر
 
 - Author - الناشر

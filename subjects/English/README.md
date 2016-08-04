@@ -1,21 +1,28 @@
 ![E-Learing](http://www.therqa.com/assets/js/tiny_mce/plugins/imagemanager/files/Learning/eLearning/eLearning-Logo_WEB.png).
 <br>
 **Learn whatever you want at Home.**
-##Subject
+##Subject - المادة
 
-- English langauge.
+- English langauge - لغة إنجليزية
 
-##Subject langauge
+##Subject langauge - لغة المادة
 
-- العربية.
-##Description 
+- العربية - Arabic
+
+##Description - الوصف
  > يساعد على فهم قواعد اللغة الانجليزية حيث يحتوي على اغلب القواعد الانجليزية مشروحة بأسلوب مختصر وواضح وسهل الفهم .
-##Copyrights
 
-- Author
+##Copyrights - حقوق النشر
+
+- Author - الناشر
+
     [Androidroseapp](http://www.mobogenie.com/developer/androidroseapp.html).
-- Contents
+
+- Contents - المحتويات
+ 
     [قواعد وتعليم اللغة الانجليزية](http://www.mobogenie.com/download-com.lernenandro-1936906.html).
-- Coverted to **MARKDOWN**
+
+- Coverted to **MARKDOWN** - إعادة تهئية المحتوي
+
    [Mohammed Ali](https://facebook.com/xc0d3r.sd).
     
